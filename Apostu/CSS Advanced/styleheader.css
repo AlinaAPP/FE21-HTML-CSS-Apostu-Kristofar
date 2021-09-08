@@ -1,0 +1,11 @@
+#header {
+    text-align: center;
+    
+}
+
+#header h1 {
+    font-size: 3em;
+    /* border-bottom: 1px solid black; */
+    color: rgb(105, 8, 8);
+    text-decoration: underline;
+}
