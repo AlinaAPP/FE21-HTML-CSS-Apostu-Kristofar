@@ -1,0 +1,10 @@
+/* Give all the divs a border of your choice, as well as a margin of 5px */
+div {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+#first #third > p {
+    font-size: 1.2em;
+    font-weight: bold;
+}
